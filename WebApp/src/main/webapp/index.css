@@ -1,0 +1,11 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+a {
+    color: rgb(13, 110, 253);
+}
+
+a:hover {
+    color: rgb(10, 88, 202);
+}
